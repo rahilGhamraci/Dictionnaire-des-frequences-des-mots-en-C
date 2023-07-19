@@ -1,0 +1,4 @@
+D:\\2. isil L2\\langage c codeblocks\\ProjetVfinal\\JaneAustenEmma.txt
+
+
+//c'est par rapport a votre emplacement sur le disque

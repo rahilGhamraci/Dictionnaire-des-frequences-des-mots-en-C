@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1644838618 source:d:\2. isil l2\langage c codeblocks\tp22\fonction.c
+	"fonction.h"
+
+1644833950 d:\2. isil l2\langage c codeblocks\tp22\fonction.h
+	<stdio.h>
+
+1644833950 source:d:\2. isil l2\langage c codeblocks\tp22\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fonction.h"
+

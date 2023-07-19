@@ -1,0 +1,11 @@
+le programme est realisé en programmation modulaire donc il est preferable d'ouvrir le projet sur codeblocks
+
+vous trouvez ci-joint le code source qui contient :
+- Les fichiers source :
+Fonction.c 
+Main.c
+- le fichier header :
+Fonction.h
+
+et pour les 2 fichiers JaneAustenEmma.txt et test4.txt 
+On les utilise pour tester l'exécution.
